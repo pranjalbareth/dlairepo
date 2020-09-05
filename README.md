@@ -1,6 +1,8 @@
-# Deep Learning & Artificial Intelligence Collab dedicated Repository
+# ML-DL-AI Collab
+### Machine Learning, Deep Learning & Artificial Intelligence Collab dedicated Repository
 
 This repository contains Deep Learning & Artificial Intelligence related notebooks.
+......................................
 Generally imported form Collaboratory : [Google Collab](https://colab.research.google.com)
 ```
 Author : Pranjal Bareth
